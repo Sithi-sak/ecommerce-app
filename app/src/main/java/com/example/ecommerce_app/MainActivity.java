@@ -22,5 +22,7 @@ public class MainActivity extends AppCompatActivity {
         });
         // make app and delete university
         // testing the token
+
+        // this is testing from second computer
     }
 }
