@@ -7,11 +7,8 @@ captures/
 .cxx/
 local.properties
 
-# Gradle
+# Gradle cache and temporary files (system-specific, should be ignored)
 .gradle/
-gradle/
-gradlew
-gradlew.bat
 
 # Other IDEs and macOS
 .DS_Store
